@@ -1,2 +1,16 @@
 # My First ToDo App
-It is a simple todo web app made using React.js and Firebase(for hosting) consisting of functionalities like add, edit, delete and view. 
+Simple & easy to use.
+#### Link: [TODO](https://my-do-todo.web.app/)
+### Library & hosting site:
+- React.js
+- Firebase(for hosting)
+
+### Functionalities:
+- Read
+- Write
+- Edit
+
+### Changes required:
+- [x] Editing existing todo
+- [ ] Styling with CSS5, 
+- [ ] Better UI
