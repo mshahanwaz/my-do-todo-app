@@ -12,5 +12,5 @@ Simple & easy to use.
 
 ### Changes required:
 - [x] Editing existing todo
-- [ ] Styling with CSS5
+- [ ] Styling with CSS3
 - [ ] Better UI
