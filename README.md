@@ -4,6 +4,7 @@ Simple & easy to use.
 ### Library & hosting site:
 - React.js
 - Firebase(for hosting)
+- Material UI
 
 ### Functionalities:
 - Read
