@@ -1,6 +1,6 @@
-# My First ToDo App
+# My TO-DO App
 Simple & easy to use.
-#### Link: [TODO](https://my-do-todo.web.app/)
+#### Link: [TO-DO](https://my-do-todo.web.app/)
 ### Library & hosting site:
 - React.js
 - Firebase(for hosting)
@@ -10,8 +10,9 @@ Simple & easy to use.
 - Read
 - Write
 - Edit
+- Delete
 
 ### Changes required:
 - [x] Editing existing todo
-- [ ] Styling with CSS3
-- [ ] Better UI
+- [x] Styling with CSS3
+- [x] Better UI
