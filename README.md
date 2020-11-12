@@ -16,3 +16,8 @@ Simple & easy to use.
 - [x] Editing existing todo
 - [x] Styling with CSS3
 - [x] Better UI
+
+### ScreenShot:
+<p align="center">
+	<img src="/screenshots/1.png" height="450">
+</p>
